@@ -31,4 +31,4 @@ yaya1313/github.com
 sanchez.santos@gmail.com
 
 # Video
-![Screenshot](./ReadMe/3_3_2024,%2012_55_10%20PM%20-%20Screen%20-%20Untitled%20video.webm)
+![Video](./ReadMe/3_3_2024,%2012_55_10%20PM%20-%20Screen%20-%20Untitled%20video.webm)
